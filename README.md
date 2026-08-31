@@ -65,7 +65,7 @@ A full-stack application for managing courier operations, including users, shipm
 
 **GitHub:** [github.com/mohtashim22khan](https://github.com/mohtashim22khan)
 
-**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+**LinkedIn:** www.linkedin.com/in/muhamad-mohtashim-khan-9805622ba
 
 ---
 
